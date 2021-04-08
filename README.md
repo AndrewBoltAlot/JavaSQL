@@ -2,6 +2,7 @@ MapSQL
 A simple in‐memory database management system (MapSQL) implemented in Java.
 
 Testing statement(run shell.java):
+
 Create Table
 CREATE TABLE contacts(id INT AUTO_INCREMENT, name CHAR(30) NOT NULL, email CHAR(30));
 
