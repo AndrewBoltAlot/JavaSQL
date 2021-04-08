@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ab7b06d-3ba4-4067-905f-bc0254399491" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DataStructures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaFxTest/JavaFxTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaFxTest/src/sample/SubArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/src/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/src/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/src/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedQueue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedQueue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedQueue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedQueue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedQueue/LinkedQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedQueue/src/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedQueue/src/CircularlyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedQueue/src/LinkedQue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedQueue/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListStack/ListStack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListStack/src/ArrayStackInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListStack/src/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListStack/src/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ParenthesesStack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ParenthesesStack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ParenthesesStack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ParenthesesStack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ParenthesesStack/ParenthesesStack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeTest/PracticeTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeTest/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeTest/src/StackArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stacks/Palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stacks/src/PalinDrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stacks/src/PalindromeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stacks/user.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/Week3_Assignment_SourceCode (Running Time Analysis)/Week3_Assignment_SourceCode (Running Time Analysis).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/Week3_Assignment_SourceCode (Running Time Analysis)/out/production/Week3_Assignment_SourceCode (Running Time Analysis)/Week3_Assignment_SourceCode (Running Time Analysis).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week5_202020119_BoltAndrew/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week5_202020119_BoltAndrew/Week5_202020119_BoltAndrew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week5_202020119_BoltAndrew/src/sample/DataStructureException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week5_202020119_BoltAndrew/src/sample/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week5_202020119_BoltAndrew/src/sample/StackArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week5_202020119_BoltAndrew/src/sample/StackArrayDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week9Source/Week6/Week6.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1q6q03WsdrPuatevGnaqJznnvok" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ab7b06d-3ba4-4067-905f-bc0254399491" name="Default Changelist" comment="" />
+      <created>1616410167722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616410167722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
